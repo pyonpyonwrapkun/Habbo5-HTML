@@ -1,12 +1,12 @@
 # Habbo5-HTML
 
-##Project is on going!
+## Project is on going!
 
 Completed :
 
-✓ Tile Rendering
-✓ Wall Rendering
-✓ Wall Texture Rendering
+* ✓ Tile Rendering
+* ✓ Wall Rendering
+* ✓ Wall Texture Rendering
 
 To Do :
 
