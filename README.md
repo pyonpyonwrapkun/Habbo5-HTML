@@ -10,6 +10,8 @@ Completed :
 
 To Do :
 
-x Avatar Implementation (Own Imager)
-x Pathfinding
-x Advanced UI
+* x Avatar Implementation (Own Imager)
+* x Pathfinding
+* x Advanced UI
+
+![Image 1](https://i.ibb.co/zJMZGxC/01.png)
